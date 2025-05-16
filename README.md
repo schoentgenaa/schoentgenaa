@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @schoentgenaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   **Hey there! I'm Max Bytefield** (@schoentgenaa)  │
+│                                                     │
+│   💻 Breaking things in: Rust/WebAssembly           │
+│   🌱 Currently growing: Neural networks in my garage│
+│   📫 Signal flare: schoentgenaa@gmail.com。         │
+│   🎮 Fun fact: My first program was a virus         │
+│     (it just printed "INFECTED!" endlessly)         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 
-<!---
-schoentgenaa/schoentgenaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*"Compiling life one bug at a time"* 🐞💻
