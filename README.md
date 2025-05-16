@@ -1,13 +1,20 @@
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   **Hey there! I'm Max Bytefield** (@schoentgenaa)  │
-│                                                     │
-│   💻 Breaking things in: Rust/WebAssembly           │
-│   🌱 Currently growing: Neural networks in my garage│
-│   📫 Signal flare: schoentgenaa@gmail.com。         │
-│   🎮 Fun fact: My first program was a virus         │
-│     (it just printed "INFECTED!" endlessly)         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+# 🚀 Max Bytefield (@schoentgenaa)
 
-*"Compiling life one bug at a time"* 🐞💻
+**`Digital Craftsman | Code Alchemist`**
+
+💻 **Breaking Things In**  
+`Rust` `WebAssembly` `Linux Kernel Modules`  
+
+🌱 **Currently Growing**  
+`Neural Networks` `Homelab Cluster` `Raspberry Pi Farm`  
+
+📫 **Signal Flare**  
+🔗 [`https://github.com/schoentgenaa`](https://github.com/schoentgenaa)
+
+🎮 **Fun Fact**  
+> My first program was a "virus" that just printed `"INFECTED!"` endlessly  
+> (My parents' printer still has PTSD)
+
+---
+
+*"Compiling life one bug at a time"* 🐛➡️✨
